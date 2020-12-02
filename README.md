@@ -10,6 +10,7 @@
 [![DevDependency Status][david-dev-image]][david-dev-url]
 [![Github Tag][github-tag-image]][github-tag-url]
 [![Discord](https://discord.com/api/guilds/723834989506068561/widget.png?style=shield)](https://discord.gg/HpT2z5B)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbloxapp%2Fblox-live.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbloxapp%2Fblox-live?ref=badge_shield)
 
 </div>
 
@@ -124,3 +125,6 @@ GPL © [Blox Live](https://github.com/bloxapp/blox-live)
 [david-url]: https://david-dm.org/bloxapp/blox-live/stage	
 [david-dev-image]: https://david-dm.org/bloxapp/blox-live/stage/dev-status.svg	
 [david-dev-url]: https://david-dm.org/bloxapp/blox-live/stage?type=dev	
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbloxapp%2Fblox-live.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbloxapp%2Fblox-live?ref=badge_large)
